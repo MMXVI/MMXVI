@@ -1,0 +1,19 @@
+{
+  "name": "mmxvi",
+  "version": "0.1.0",
+  "description": "Main project of the server-client application.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMXVI/MMXVI.git"
+  },
+  "author": "UI Community",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MMXVI/MMXVI/issues"
+  },
+  "homepage": "https://github.com/MMXVI/MMXVI#readme"
+}
